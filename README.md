@@ -1,4 +1,4 @@
-# padLeft
+# padleft
 *Simple JS String padLeft implementation*
 
 This adds a `padLeft` fn to String's prototype

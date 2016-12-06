@@ -3,7 +3,7 @@ const expect = require('chai').expect;
 
 require('../padleft');
 
-describe('PadLeft testing', function () {
+describe('.padLeft testing', function () {
   
   it('Should add chars until the right size', function () {
     '.2'.padLeft(4, 0).should.eql('00.2');

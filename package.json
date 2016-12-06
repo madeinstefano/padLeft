@@ -1,7 +1,7 @@
 {
-  "name": "padLeft",
-  "version": "0.0.1",
-  "description": "JS padLeft fn implementation",
+  "name": "padleft",
+  "version": "0.1.0",
+  "description": "JS padleft fn implementation",
   "main": "padleft.js",
   "dependencies": {},
   "engines": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:madeinstefano/padLeft.git"
+    "url": "git@github.com:madeinstefano/padleft.git"
   },
   "keywords": [
     "padleft",
