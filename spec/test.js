@@ -13,9 +13,9 @@ describe('.padLeft testing', function () {
 });
 
 
-describe('.padRigth testing', function () {
+describe('.padRight testing', function () {
   
-  it("Should add chars on string's rigth until the reach the size", function () {
+  it("Should add chars on string's right until the reach the size", function () {
     '2.0'.padRight(5, 0).should.eql('2.000');
     '2.0'.padRight(5, '0').should.eql('2.000');
     'slow'.padRight(14, ' my car is').should.eql('slow my car is');
